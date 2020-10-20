@@ -2,6 +2,7 @@
 
 - 🌟 I’m currently working as Solution Architect at Schindler Digital Business (Luzern CH) <br>
 - 🎯 I’m currently learning: Scala, SAPUI5, Deep Learning in Python <br>
+[![image](https://github.com/davidvela/davidvela.github.io/blob/master/images/daftpunktocat-guy.gif)
 
 # Find me in 🌎
 [🦢: Twitter](https://twitter.com/David_VelaT) <br>
