@@ -10,7 +10,7 @@
 [💼: LinkedIn](https://www.linkedin.com/in/davidvelatirado/) <br>
 [📫: Email xxx](mailto:david.vela.tirado@gmail.com)<br>
 
-😁🌟🐳🤐👾🔥♠ ♥ ♦ ♣
+😁🌟🐳🤐👾🔥♠ ♥ ♦ ♣🇨🇭
 
 - ⚡ Fun fact: “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” Antoine de Saint-Exupery 🤴🏼
 <!--
