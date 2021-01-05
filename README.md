@@ -12,7 +12,7 @@
 
 😁🌟🐳🤐👾🔥♠ ♥ ♦ ♣
 
-
+- ⚡ Fun fact: “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” Antoine de Saint-Exupery 🤴🏼
 <!--
 **davidvela/davidvela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![image](https://github.com/davidvela/davidvela.github.io/blob/master/images/daftpunktocat-guy.gif =20x20)
@@ -31,4 +31,10 @@ Here are some ideas to get you started:
 stats:
 [![image](Imagelink)](link)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidvela)](https://github.com/davidvela)
+
+
+“Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+“ In order to be irreplaceable, one must always be different” – Coco Chanel
+“Java is to JavaScript what car is to Carpet.” – Chris Heilmann
+The 'h' in 'software development' stands for 'happiness'
 -->
