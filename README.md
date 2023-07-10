@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌟 <br>
-- 💡 I know: SAP ABAP, SAPUI5, Python, Scala, SAP PI, CPI, Microsoft Azure (ADL,ADF,ADB,DWH,PBI), RPA, OData and API Mng<br>
+- 💡 I know: SAP ABAP, SAPUI5, Python, Scala, SAP PI, CPI, Microsoft Azure (ADL,ADF,ADB,DWH,PBI), AWS (S3, Redshift), Dataiku, RPA, OData and API Mng<br>
 - 🎯 2023 > I’m currently learning: Data Modelling, pipeline optimizaiton and sales predictions models.  <br>
 <img src="https://github.com/davidvela/davidvela.github.io/blob/master/images/daftpunktocat-guy.gif" alt="drawing" width="100"/>
 
